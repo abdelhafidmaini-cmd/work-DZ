@@ -1,0 +1,12 @@
+{
+  "name": "عملي - حاسبة المناوبة والأعياد",
+  "short_name": "عملي",
+  "description": "تطبيق حساب أيام المناوبة (4×4) بنظامي بوسط وسورفاس ومواعيد الأعياد الدينية والوطنية",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#0f172a",
+  "lang": "ar",
+  "dir": "rtl",
+  "orientation": "portrait"
+}

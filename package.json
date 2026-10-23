@@ -1,0 +1,14 @@
+{
+  "name": "amali-app",
+  "version": "1.0.0",
+  "description": "تطبيق عملي لحساب المناوبة والأعياد",
+  "main": "www/index.html",
+  "scripts": {
+    "build": "echo Static build ready"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
